@@ -1,6 +1,5 @@
-# www.tannerkrewson.com
+# kayinajah.uk.to
 
-**Visit the site: www.tannerkrewson.com**
 
 This is the source code of my personal website.
 
